@@ -1,7 +1,8 @@
 /* 
     ---------------------------------------------------------------
     Add your name to this file below:
-    NAME: 
+    NAME: Scott Leishman	
+	DATE: 07/26/2025
     ---------------------------------------------------------------
 */
 
@@ -24,6 +25,8 @@
 
     /* Font Stacks */
     /* add the two font stacks here */
+	--body-fonts: Lato, Arial, sans-serif;
+	--heading-fonts: 'Open Sans', Arial, sans-serif;
 }
 
 body{
@@ -42,7 +45,7 @@ header{
 	border-bottom: 8px solid var(--teal);
 }
 
-h1, h2, h3{
+h1, h2, h3{ 
 	/* center align the text */
 	/* use a web font here (instructions on page) */
 	/* make the heading text all small caps style */
